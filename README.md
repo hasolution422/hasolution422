@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Ali</h1>
 <h3 align="center">A Seasonal Software Engineer from Pakistan.</h3>
-<img align="right" alt="Development" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Ffoxadhd-artist-on-tumblr-olivawhen-W9tBvzTXkQopi&psig=AOvVaw1zEvFj4MG5rzIREcUxJL4j&ust=1704974181481000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOinz4Pi0oMDFQAAAAAdAAAAABAt">
+<img align="right" alt="Development" width="400" src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fgiphy.com%2Fgifs%2Ffoxadhd-artist-on-tumblr-olivawhen-W9tBvzTXkQopi&amp;psig=AOvVaw1zEvFj4MG5rzIREcUxJL4j&amp;ust=1704974181481000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBIQjRxqFwoTCOinz4Pi0oMDFQAAAAAdAAAAABAt">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasolution422&label=Profile%20views&color=0e75b6&style=flat" alt="hasolution422" /> </p>
 
 - 🔭 I’m currently working on .Net Core **Oraggo CC**
