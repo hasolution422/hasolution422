@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working at **Karma Software Solutions** on enterprise .NET Core web applications
+- 🔭 Currently working at **AAA Software Solutions** on enterprise .NET Core web applications
 - 🌱 Currently expanding into **Microsoft Azure** and **Docker** containerization
 - 💬 Ask me about **.NET Core, C#, Angular, Entity Framework Core, SQL Server, REST APIs**
 - 📫 Reach me at **hassan.ali1252@yahoo.com**
